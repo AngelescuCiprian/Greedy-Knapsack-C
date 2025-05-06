@@ -3,8 +3,6 @@ ATP
 Implementare în C a problemei rucsacului (Knapsack) folosind algoritmi greedy. Sunt incluse patru metode de selecție: în ordine inițială, sortare după cost, valoare și raport valoare/cost.
 # Greedy Knapsack - C Implementation
 
-# Greedy Knapsack - C Implementation
-
 This project contains a C implementation of the **Knapsack Problem** using several **Greedy strategies**. The program reads item data from a file and applies multiple sorting strategies to determine the most valuable combination that fits into a backpack with limited capacity.
 
 ## Features
